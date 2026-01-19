@@ -1,5 +1,7 @@
 # zenstruck-foundry-derived-entity-proxy-issue-reproducer
 
+** FIXED IN https://github.com/zenstruck/foundry/issues/1056 **
+
 We have two Entities `OwningSide` and `InverseSide` where `InverseSide` has derived identity
 
 The test fails with 
